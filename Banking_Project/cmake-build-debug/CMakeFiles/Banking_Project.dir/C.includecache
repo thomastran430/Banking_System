@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/function.c
+iostream
+-
+header.h
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/header.h
+
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/header.h
+iostream
+-
+

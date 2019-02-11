@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/function.h
+header.h
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/header.h
+
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/header.h
+iostream
+-
+vector
+-
+string
+-
+cstdlib
+-
+ctime
+-
+iomanip
+-
+algorithm
+-
+
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/main.cpp
+function.h
+C:/Users/Thomas Tran/CLionProjects/Banking_Project/function.h
+
